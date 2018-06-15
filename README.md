@@ -1,0 +1,2 @@
+# myScript
+test script
